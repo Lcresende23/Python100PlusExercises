@@ -1,0 +1,4 @@
+Lucas;24
+Lucas;24
+Maria;65
+Magda;40
